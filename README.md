@@ -2,7 +2,7 @@
 
 ## INTRODUCTION
 
-The Internet global connectivity is regarded as a crossroads where users can meet and share information. This is the primary reason phishers choose this method of data exchange as a point of contact to conduct widespread phishing attacks by infecting computers with spyware that directs people to bogus websites.
+The Internet global connectivity is regarded as a crossroads where users can meet and share information. This is the primary reason phishers choose this method of data exchange as a point of contact to conduct widespread phishing attacks by infecting computers with spyware that directs people to bogus websites. <br>
 Phishing attack is one of the most dangerous threats to online accounts and data because these attacks pose as a trustworthy firm or person, and they employ social engineering techniques to make victims more likely to fall for the scam.
 
 ## PHISHING MECHANISM ![image](https://github.com/vishak-hk/PhishDetect/assets/87275085/455064c7-59f4-4433-87e8-47c4e2bcb427)
@@ -22,8 +22,8 @@ The objective of this project is to train machine learning models on the dataset
 ## STAGES
 
 i. Dataset collection and pre-processing; <br>
-ii. Machine learning model selection and development ; 
-iii. Development of a web-based application for detection; 
+ii. Machine learning model selection and development ; <br>
+iii. Development of a web-based application for detection; <br>
 iv. Integration of the developed model to web application;
 
 ## SIGNIFICANCE OF THE PROJECT
@@ -31,8 +31,8 @@ iv. Integration of the developed model to web application;
 Due to the fraudulent websites built on the World Wide Web in the previous decade to mimic reputable websites and steal financial assets from users and organizations. Hence phishing attack has become so prevalent such that it has cost the internet community and other stakeholders hundreds of millions of dollars. Thus, robust countermeasures that can identify phishing are required. 
 
 These are the challenges to be addressed in this project:
-I. Reduce the rate of financial theft from individuals and organizations online.
-II. Educate Internet Users on the deception technique of phishers.
+I. Reduce the rate of financial theft from individuals and organizations online. <br>
+II. Educate Internet Users on the deception technique of phishers. <br>
 III. Educate Internet users on the countermeasures of phishing attack.
 
 ## CONCLUSION
