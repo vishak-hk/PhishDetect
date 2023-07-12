@@ -21,7 +21,7 @@ The objective of this project is to train machine learning models on the dataset
 
 ## STAGES
 
-i. Dataset collection and pre-processing; 
+i. Dataset collection and pre-processing; <br>
 ii. Machine learning model selection and development ; 
 iii. Development of a web-based application for detection; 
 iv. Integration of the developed model to web application;
