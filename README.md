@@ -30,7 +30,7 @@ iv. Integration of the developed model to web application;
 
 Due to the fraudulent websites built on the World Wide Web in the previous decade to mimic reputable websites and steal financial assets from users and organizations. Hence phishing attack has become so prevalent such that it has cost the internet community and other stakeholders hundreds of millions of dollars. Thus, robust countermeasures that can identify phishing are required. 
 
-These are the challenges to be addressed in this project:
+These are the challenges to be addressed in this project: <br>
 I. Reduce the rate of financial theft from individuals and organizations online. <br>
 II. Educate Internet Users on the deception technique of phishers. <br>
 III. Educate Internet users on the countermeasures of phishing attack.
