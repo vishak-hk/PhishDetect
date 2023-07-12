@@ -1,6 +1,6 @@
 # PhishDetect
 
-Introduction [image](https://github.com/vishak-hk/PhishDetect/assets/87275085/a03280d3-cfda-46d6-96fa-ea973a69b120)
+Introduction(https://github.com/vishak-hk/PhishDetect/assets/87275085/a03280d3-cfda-46d6-96fa-ea973a69b120)
 
 The Internet global connectivity is regarded as a crossroads where users can meet and share information. This is the primary reason phishers choose this method of data exchange as a point of contact to conduct widespread phishing attacks by infecting computers with spyware that directs people to bogus websites.
 
